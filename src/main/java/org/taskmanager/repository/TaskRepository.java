@@ -1,6 +1,6 @@
-package org.example.repository;
+package org.taskmanager.repository;
 
-import org.example.domain.Task;
+import org.taskmanager.domain.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
